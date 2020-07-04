@@ -11,10 +11,14 @@ Goal - Get some coffee!
 
 
 Controls:
-	W,A,S,D - Move\n
-	Mouse	- Look Around\n
-	Left Mouse	- Interact\n
-	Esc	- Go to Main Menu\n
+	W,A,S,D - Move
+	
+	Mouse	- Look Around
+	
+	Left Mouse	- Interact
+	
+	Esc	- Go to Main Menu
+	
 	F12	- Shut down Blender
 
 
