@@ -24,7 +24,10 @@ Controls:
 
 
 Credits:
-	Models, textures, sounds, animation and logic by SmilingSquirrel.
+
+	Models, sounds, animation and logic by SmilingSquirrel.
+	Some textures by SmilingSquirrel.
+	Emojis and Restaurant menus/signs made by a friend.
 	Story by SmilingSquirrel and friends.
 
 
