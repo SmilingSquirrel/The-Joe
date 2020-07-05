@@ -5,6 +5,8 @@ By SmilingSquirrel
 Built in UPBGE 0.2.5
 Assets made with Blender, Gimp, and Audacity
 
+This final version for BGMC32
+
 
 
 Goal - Get some coffee!
