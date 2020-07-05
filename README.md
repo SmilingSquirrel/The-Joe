@@ -1,10 +1,11 @@
-# The-Joe
+# The-Joe(Beta)
 The Joe - [BGMC32]
 By SmilingSquirrel
 
 Built in UPBGE 0.2.5
 Assets made with Blender, Gimp, and Audacity
 
+This is the BETA version. It is not as complete as The Joe(Final) branch.
 
 
 Goal - Get some coffee!
